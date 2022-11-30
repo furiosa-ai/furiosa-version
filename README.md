@@ -3,6 +3,7 @@ A simple CLI tool to print out version strings of libraries.
 
 Installation:
 ```
+cargo install --git https://github.com/furiosa-ai/furiosa-version.git
 ```
 
 Synopsis:
