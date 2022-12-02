@@ -1,5 +1,6 @@
-use std::ffi::{c_char, CStr};
+use std::ffi::CStr;
 use std::fmt::Write;
+use std::os::raw::c_char;
 
 use clap::ArgMatches;
 use eyre::Context;
